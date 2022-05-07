@@ -6,6 +6,7 @@
 - [Languages and Technologies](#languages-and-technologies)
 - [Contact Me](#how-to-reach-me)
 - [Fun Fact](#fun-fact)
+- [Pinned Repos](#pinned-repos)
 
 ## About Me
 
@@ -35,27 +36,15 @@ I'm truly excited to continue on this tech journey somewhere I can offer my uniq
 - Working with Web APIs - third party libraries like JQuery as well as server side APIs like momentJS or Openweathermap.
 ... and there are more yet to come! Both from in school learning, and outside study as well!
 
-## How to reach me:
+## How to reach me
 
 Feel free to contact me via the email listed here on my [GitHub Page](https://github.com/StuMartin22).
 Alternatively check out my portfolio [right here](https://stumartin22.github.io/Portfolio/) where you can some of my hosted projects, more info about me, and find links to all of my profiles, phone number, email, and resume!
 Finally, connect with me on [LinkedIn](https://pages.github.com/)!
 
-## Fun Fact:
+## Fun Fact
 
 In American Paddlefish, polyodon _Spathula_, a healthy female specimen can contain up to 30% of her body mass as eggs! 
-<!--
-**StuMartin22/StuMartin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## Pinned Repos
