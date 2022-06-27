@@ -12,7 +12,7 @@
 
 Hey there, I'm Stuart (Stu) Martin, pronouns: (he/him)!
 
-I am a full stack web developer that has recently received a certificate from the coding bootcamp sponsored through the University of Minnesota! After many years of never really feeling the right 'fit' when doing varyious jobs, I finally have found where I belong with coding. I loved every second of my bootcamp and am constantly looking forward to the next time that I get to code and debug. The thrill of the hunt and the satisfaction of solving the puzzle is a feeling like no other!
+I am a full stack web developer that has recently received a certificate from the coding bootcamp sponsored through the University of Minnesota! After many years of never really feeling the right 'fit' when doing various jobs, I finally have found where I belong with coding. I loved every second of my bootcamp and am constantly looking forward to the next time that I get to code and debug. The thrill of the hunt and the satisfaction of solving the puzzle is a feeling like no other!
 
 I graduated from Rogers State University in Claremore, OK with a Bachelors of Science in Biology with an emphasis in environmental conservation.
 
